@@ -9,7 +9,7 @@ To use this project, you will need the latest version of MATLAB and Simulink. Yo
 1. To clone the project to your computer, run the following command:
 
 ```
-git clone https://github.com/username/aileron-digital-twin.git
+git clone https://github.com/mftnakrsu/aileron-digital-twin.git
 ```
 
 Alternatively, download the project and extract the ZIP archive.
